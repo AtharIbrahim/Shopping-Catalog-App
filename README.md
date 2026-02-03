@@ -2,7 +2,7 @@
 
 A modern, dark-themed shopping catalog mobile application built with Flutter. Browse products, add items to cart, manage favorites, and complete purchases with an elegant user interface. 
 
-## Features
+## Features 
 
 - 🛍️ **Product Browsing**: Browse through a catalog of products with beautiful dark theme UI
 - 🔍 **Category Filtering**: Filter products by categories with horizontal chip navigation
