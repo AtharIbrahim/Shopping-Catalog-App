@@ -1,6 +1,6 @@
 # Shopping Catalog
 
-A modern, dark-themed shopping catalog mobile application built with Flutter. Browse products, add items to cart, manage favorites, and complete purchases with an elegant user interface.
+A modern, dark-themed shopping catalog mobile application built with Flutter. Browse products, add items to cart, manage favorites, and complete purchases with an elegant user interface. 
 
 ## Features
 
